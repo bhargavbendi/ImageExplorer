@@ -1,3 +1,4 @@
+#ImageExplorer: A Seamless Experience for Curated Photo Discovery
 ImageExplorer is a powerful web application designed to provide a seamless and immersive experience for exploring and discovering stunning curated photos. With ImageExplorer, you can effortlessly search for a wide variety of high-quality images, ranging from breathtaking landscapes to captivating portraits. The intuitive search feature allows you to enter specific keywords or topics, enabling you to find the perfect image for your creative projects, presentations, or personal use.
 
 Featuring a sleek and user-friendly interface, ImageExplorer offers a visually appealing gallery where the curated photos are beautifully showcased. Each photo is accompanied by relevant information, such as the photographer's name, adding a personal touch to the browsing experience. With just a click, you can conveniently download the original image and make it your own.
